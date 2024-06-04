@@ -1,4 +1,4 @@
-A sample portfolio frontend project for a video games developed using
+A sample portfolio frontend project for discovering video games developed using
 
 - react 18
 - typescript
